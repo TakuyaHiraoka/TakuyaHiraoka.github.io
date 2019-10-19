@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141745658-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141745658-1');
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link rel="stylesheet" href="css/common.css" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<title>Research</title>
+</head>
+<body>
+<div id="top">
+   <div id="header">
+      <h1>Research</h1>
+      <p>
+      I am currently working on developing robust hierarchical reinforcement learning methods. Also, I have been working on research for dialogue systems. 
+      </p>
+      <div id="navi">
+         <ul>
+         </ul>
+      </div><!-- /#navi-->
+   </div><!-- /#header-->
+   <div id="menu">
+      <ul>
+      <li><a href="index.html">PROFILE</a></li>
+      <li><a href="#" class="on">RESEARCH</a></li>
+      <li><a href="publications.html">PUBLICATIONS</a></li>
+      </ul>
+   </div><!-- /#menu-->
+   <div id="contents">
+
+      <h2>Reinforcement Learning</h2>
+      <h3>Robust Hierarchical Reinforcement Learning (2019, NEC and AIST)</h3>
+         <iframe src="https://drive.google.com/file/d/1xXgSeEa_nNG397ZkIayk3CwYPy_BPy8X/preview" width="640" height="480"></iframe>
+         <li>
+         <u>Takuya Hiraoka</u>, Takahisa Imagawa, Tatsuya Mori, Takashi Onishi, Yoshimasa Tsuruoka, 
+         <a href="https://arxiv.org/abs/1905.09191"><strong>Learning Robust Options by Conditional Value at Risk Optimization</strong></a>,
+         arXiv preprint arXiv:1905.09191, 2019</li><br>
+
+      <h2>Dialogue Systems</h2>
+      <h3>Inquiry Dialogue System (2018, NEC)</h3>
+         <iframe src="https://drive.google.com/file/d/1BeVDX3uDd_FQ1vqp0dB2F4oVhSphlGGc/preview" width="640" height="480"></iframe>
+         <li>
+         <u>Takuya Hiraoka</u>, Shota Motoura, Kunihiko Sadamasa, 
+         <a href="./papers/hiraoka18iwsds.pdf"><strong>Detecticon: A Prototype Inquiry Dialog System</strong></a>, 
+         9th International Workshop on Spoken Dialog Systems (IWSDS). May 2018<br> 
+        </li><br>
+
+      <h3>Persuasive Dialogue System (~2016, NAIST)</h3>
+        <iframe src="https://drive.google.com/file/d/1z1jvORPEQpfwMEGdcBDDe7OZZgN4pbKS/preview" width="640" height="480"></iframe> 
+        <li>
+         <u>Takuya Hiraoka</u>, Graham Neubig, Sakriani Sakti, Tomoki Toda, Satoshi Nakamura, 
+         <a href="./papers/hiraoka14coling.pdf"><strong>Reinforcement Learning of Cooperative Persuasive Dialogue Policies using Framing</strong></a>, 
+	 The 25th International Conference on Computational Linguistics (COLING), August 2014<br>
+        </li>
+        <br>
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/YklLhJtVdvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <li>
+         <u>Takuya Hiraoka</u>, Yuki Yamauchi, Graham Neubig, Sakriani Sakti, Tomoki Toda, Satoshi Nakamura, 
+         <a href="./papers/hiraoka13asru.pdf"><strong>Dialogue Management for Leading the Conversation in Persuasive Dialogue Systems</strong></a>, 
+         Automatic Speech Recognition and Understanding Workshop (ASRU), December 2013<br>
+        </li><br>
+
+      <h3>Example-based Dialogue System (2016, NAIST)</h3>
+        <img src="./images/hiraoka16iwsds.jpg" width="624" height="366" style="border:solid 2px #000000">
+        <li>
+         <u>Takuya Hiraoka</u>, Graham Neubig, Koichiro Yoshino, Tomoki Toda, Satoshi Nakamura, 
+         <a href="./papers/hiraoka16iwsds.pdf"><strong>
+          Active Learning for Example-based Dialog Systems
+         </strong></a>, 
+	 7th International Workshop on Spoken Dialog Systems (IWSDS). January 2016, 
+         <a href="https://github.com/TakuyaHiraoka/Active-Learning-for-Example-based-Dialog-Systems">Source code</a>
+        </li><br>
+
+      <h3>Negotiation Dialogue System (2015, NAIST and USC)</h3>
+        <img src="./images/hiraoka15sigdial.jpg" width="659" height="332" style="border:solid 2px #000000">
+        <li>
+         <u>Takuya Hiraoka</u>, Kallirroi Georgila, Elnaz Nouri, David Traum, Satoshi Nakamura,<br> 
+         <a href="./papers/hiraoka15sigdial.pdf"><strong> 
+          Reinforcement Learning in Multi-Party Trading Dialog
+         </strong></a>, 
+	 The 16th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL). September 2015, 
+         <a href="https://github.com/TakuyaHiraoka/Reinforcement-Learning-in-Multi-Party-Trading-Dialog">Source code</a>, 
+         <a href="http://www.superlectures.com/sigdial2015/oral-session-2-discourse-strategy">video recordings and slides</a>
+        </li><br>
+
+    <div>
+   </div><!-- /#pageTop-->
+   <div id="footer">
+            <div class="copyright">Copyright &copy; 2014 Takuya Hiraoka All Rights Reserved.</div>
+   </div><!-- /#footer-->
+</div><!-- /#top-->
+</body>
+</html>

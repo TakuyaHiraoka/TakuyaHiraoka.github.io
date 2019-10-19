@@ -58,21 +58,15 @@
       <h2>Journal papers</h2>
       <ul>
         <li>
-         Katsumi Hisao, Koichiro Yoshino, <u>Takuya Hiraoka</u>, Kosuke Akimoto, Kazeto Yamamoto, Shota Motoura, Kunihiko Sadamasa, Satoshi Nakamura.<br>
-         <a href="http://preparingnow"><strong>
-          Optimization of Information-Seeking Dialogue Strategy for Argumentation-Based Dialogue System
-         </strong></a><br>
-	 Transactions of the Japanese Society for Artificial Intelligence, Vol.35, No.1, (To appear), January 2020.<br>
-        </li>
-
-        <li>
          <u>Takuya Hiraoka</u>, Graham Neubig, Sakriani Sakti, Tomoki Toda, Satoshi Nakamura.<br>
          <a href="http://www.sciencedirect.com/science/article/pii/S0167639316302485"><strong>
           Learning cooperative persuasive dialogue policies using framing
          </strong></a><br>
 	 Speech Communication, Vol. 84, pp. 83--96, Elsevier, 2016<br>
         </li>
+      </ul>
 
+      <ul>
         <li>
          <u>Takuya Hiraoka</u>, Kallirroi Georgila, Elnaz Nouri, David Traum, Satoshi Nakamura.<br>
          <a href="https://www.jstage.jst.go.jp/article/tjsai/31/4/31_B-FC1/_pdf"><strong>
@@ -87,7 +81,7 @@
         <li>
          <u>Takuya Hiraoka</u>, Takahisa Imagawa, Tatsuya Mori, Takashi Onishi, Yoshimasa Tsuruoka.<br>
          <strong>Learning Robust Options by Conditional Value at Risk Optimization</strong><br>
-	 Thirty-third Conference on Neural Information Processing System (NeurIPS), December 2019 (To appear)<br>
+	 Thirty-third Conference on Neural Information Processing System (NeurIPS), Novermber 2019 (To appear)<br>
 	 <a href="https://arxiv.org/abs/1905.09191">arXiv version</a>, 
 	 <a href="https://preparingnow">source code</a>, 
 	 <a href="https://drive.google.com/open?id=1DRmIaK5VomCey70rKD_5DgX2Jm_1rFlo">demo video</a><br>
