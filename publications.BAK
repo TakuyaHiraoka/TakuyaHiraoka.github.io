@@ -89,7 +89,7 @@
          <strong>Learning Robust Options by Conditional Value at Risk Optimization</strong><br>
 	 Thirty-third Conference on Neural Information Processing System (NeurIPS), December 2019 (To appear)<br>
 	 <a href="https://arxiv.org/abs/1905.09191">arXiv version</a>, 
-	 <a href="https://preparingnow">source code</a>, 
+	 <a href="https://github.com/TakuyaHiraoka/Learning-Robust-Options-by-Conditional-Value-at-Risk-Optimization">source code</a>, 
 	 <a href="https://drive.google.com/open?id=1DRmIaK5VomCey70rKD_5DgX2Jm_1rFlo">demo video</a><br>
 
         <li>
@@ -305,6 +305,7 @@
 
       <h2>Books</h2>
       <ul>
+
         <li>
          <u>Takuya Hiraoka</u>, Graham Neubig, Yoshino Koichiro, Tomoki Toda, Satoshi Nakamura.<br>
          <a href="https://link.springer.com/chapter/10.1007/978-981-10-2585-3_5"><strong>
@@ -312,6 +313,24 @@
          </strong></a><br>
 	 Dialogues with Social Robots. Springer Singapore, pp. 67--78, Springer, 2017<br>
         </li>
+
+        <li>
+         <u>Takuya Hiraoka</u>, Shota Motoura, Kunihiko Sadamasa.<br>
+         <a href="https://www.springer.com/gp/book/9789811394423?wt_mc=Internal.Event.1.SEM.ChapterAuthorCongrat"><strong>
+          Detecticon: A Prototype Inquiry Dialog System
+         </strong></a><br>
+	 9th International Workshop on Spoken Dialog Systems (IWSDS). 2019<br>
+        </li>
+
+
+        <li>
+         <u>Takuya Hiraoka</u>, Graham Neubig, Yoshino Koichiro, Tomoki Toda, Satoshi Nakamura.<br>
+         <a href="https://link.springer.com/chapter/10.1007/978-981-10-2585-3_5"><strong>
+          Active learning for example-based dialog systems
+         </strong></a><br>
+	 Dialogues with Social Robots. Springer Singapore, pp. 67--78, Springer, 2017<br>
+        </li>
+
         <li>
          <u>Takuya Hiraoka</u>, Graham Neubig, Sakriani Sakti, Tomoki Toda, Satoshi Nakamura.<br>
          <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-21834-2_12"><strong>
