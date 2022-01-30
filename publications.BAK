@@ -138,7 +138,7 @@
          Kosuke Akimoto, <u>Takuya Hiraoka</u>, Kunihiko Sadamasa, Mathias Niepert.<br>
          <a href="./papers/akimoto19emnlp.pdf"><strong>Cross-Sentence N-ary Relation Extraction using Lower-Arity Universal Schemas</strong></a><br>
 	 Conference on Empirical Methods in Natural Language Processing (EMNLP), Novermber 2019<br>
-         <a href="https://github.com/aurtg/nary-relation-extraction-decomposed">source code</a><br>
+         <a href="https://github.com/aurtg/nary-relation-extraction-decomposed">source code</a>, 
          <a href="https://github.com/aurtg/n-ary-dataset">dateaset</a><br>
         </li>
 
