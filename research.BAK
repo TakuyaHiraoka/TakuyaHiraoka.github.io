@@ -26,7 +26,7 @@
    <div id="header">
       <h1>Research</h1>
       <p>
-      I am currently working on developing robust hierarchical reinforcement learning methods. Also, I have been working on research for spoken dialogue systems. 
+      I am currently working on developing reinforcement learning methods. Also, I have been working on research for spoken dialogue systems. 
       </p>
       <div id="navi">
          <ul>
@@ -43,6 +43,21 @@
    <div id="contents">
 
       <h2>Reinforcement Learning</h2>
+
+      <h3>Model Based Meta Reinforcement Learning (2021, NEC and AIST)</h3>
+        <img src="./images/hiraoka22iclr.jpg" width="624" height="366" style="border:solid 2px #000000">
+        <li>
+         <u>Takuya Hiraoka</u>, Takahisa Imagawa, Taisei Hashimoto, Takashi Onishi, Yoshimasa Tsuruoka.<br>
+         <a href="https://openreview.net/forum?id=xCVJMsPv3RT"><strong>
+          Dropout Q-Functions for Doubly Efficient Reinforcement Learning
+         </strong></a><br>
+	 The Tenth International Conference on Learning Representations (ICLR), April, 2022<br>
+	 <a href="https://drive.google.com/file/d/1_JSuwlUsMjzo6zRaAIcXXj3__AmOvu2t/view?usp=sharing">poster</a>, 
+	 <a href="https://drive.google.com/file/d/1ecq9SQ2KSNpfeblCkr6TYPz5gRk_Y4S8/view?usp=sharing">slide</a>, 
+         <a href="https://arxiv.org/abs/2110.02034">arXiv version</a>, 
+         <a href="https://github.com/TakuyaHiraoka/Dropout-Q-Functions-for-Doubly-Efficient-Reinforcement-Learning">source code</a><br>
+        </li><br>
+
       <h3>Model Based Meta Reinforcement Learning (2020, NEC, AIST and RIKEN)</h3>
          <iframe src="https://drive.google.com/file/d/1DRA-pmIWnHGNv5G_gFrml8YzKCtMcGnu/preview" width="640" height="480"></iframe>
         <li>
@@ -51,6 +66,9 @@
           Meta-Model-Based Meta-Policy Optimization
          </strong></a><br>
 	 The 13th Asian Conference on Machine Learning (ACML), November, 2021<br>
+	 <a href="https://drive.google.com/file/d/1ueznSgtqgtln_RwUmLdO0F9dL-niQciU/view?usp=sharing">poster</a>, 
+	 <a href="https://slideslive.com/38970396/metamodelbased-metapolicy-optimization?ref=account-folder-92357-folders">video presentation</a>, 
+	 <a href="https://drive.google.com/file/d/1DRA-pmIWnHGNv5G_gFrml8YzKCtMcGnu/view?usp=sharing">demo video</a>, 
          <a href="https://arxiv.org/abs/2006.02608">arXiv version</a>, 
          <a href="https://github.com/TakuyaHiraoka/Meta-Model-Based-Meta-Policy-Optimization">source code</a><br>
         </li><br>

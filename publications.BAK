@@ -44,16 +44,6 @@
 
       <h2>Working papers</h2>
       <ul>
-
-        <li>
-         <u>Takuya Hiraoka</u>, Takahisa Imagawa, Taisei Hashimoto, Takashi Onishi, Yoshimasa Tsuruoka.<br>
-         <a href="https://arxiv.org/abs/2110.02034"><strong>
-          Dropout Q-Functions for Doubly Efficient Reinforcement Learning
-         </strong></a><br>
-	 arXiv preprint arXiv:2110.02034, 2021<br>
-         <a href="https://github.com/TakuyaHiraoka/Dropout-Q-Functions-for-Doubly-Efficient-Reinforcement-Learning">source code</a><br>
-        </li>
-
         <li>
          <u>Takuya Hiraoka</u>, Masaaki Tsuchida, Yotaro Watanabe.<br>
          <a href="https://arxiv.org/abs/1708.00667"><strong>
@@ -94,6 +84,20 @@
 
       <h2>International conferences/workshops (refereed)</h2>
       <ul>
+
+        <li>
+         <u>Takuya Hiraoka</u>, Takahisa Imagawa, Taisei Hashimoto, Takashi Onishi, Yoshimasa Tsuruoka.<br>
+         <a href="https://openreview.net/forum?id=xCVJMsPv3RT"><strong>
+          Dropout Q-Functions for Doubly Efficient Reinforcement Learning
+         </strong></a><br>
+	 The Tenth International Conference on Learning Representations (ICLR), April, 2022<br>
+
+	 <a href="https://drive.google.com/file/d/1_JSuwlUsMjzo6zRaAIcXXj3__AmOvu2t/view?usp=sharing">poster</a>, 
+	 <a href="https://drive.google.com/file/d/1ecq9SQ2KSNpfeblCkr6TYPz5gRk_Y4S8/view?usp=sharing">slide</a>, 
+
+         <a href="https://arxiv.org/abs/2110.02034">arXiv version</a>, 
+         <a href="https://github.com/TakuyaHiraoka/Dropout-Q-Functions-for-Doubly-Efficient-Reinforcement-Learning">source code</a><br>
+        </li>
 
         <li>
          <u>Takuya Hiraoka</u>, Takahisa Imagawa, Voot Tangkaratt, Takayuki Osa, Takashi Onishi, Yoshimasa Tsuruoka.<br>
