@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="css/common.css" type="text/css" />
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/common.js"></script>
-<title>Takuya Hiraoka</title>
+<title>Publications</title>
 </head>
 <body>
 <div id="top">
@@ -44,6 +44,27 @@
 
       <h2>Working papers</h2>
       <ul>
+
+        <li>
+         <u>Takuya Hiraoka</u>.<br>
+         <a href="https://arxiv.org/abs/2312.05787"><strong>
+          Efficient Sparse-Reward Goal-Conditioned Reinforcement Learning with a High Replay Ratio and Regularization
+         </strong></a><br>
+	 arXiv:2312.05787, 2023<br>
+         <a href="https://github.com/TakuyaHiraoka/Efficient-SRGC-RL-with-a-High-RR-and-Regularization">source code</a>, 
+         <a href="https://drive.google.com/file/d/1UHd7JVPCwFLNFhy1QcycQfwU_nll_yII/view?usp=drive_link">demo video</a><br>
+        </li>
+
+
+
+        <li>
+         Takahisa Imagawa, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
+         <a href="https://arxiv.org/abs/2305.14377"><strong>
+          Unsupervised Discovery of Continuous Skills on a Sphere
+         </strong></a><br>
+	 arXiv preprint aarXiv:2305.14377, 2023<br>
+        </li>
+
 
         <li>
          <u>Takuya Hiraoka</u>, Takashi Onishi, Yoshimasa Tsuruoka.<br>
@@ -108,6 +129,14 @@
       <ul>
 
         <li>
+         Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
+         <strong>
+          <a href="./papers/wang23sice.pdf">Application of Reward Shaping in Industrial Manufacturing Reinforcement Learning Environment
+         </strong></a><br>
+	 SICE Annual Conference. September, 2023<br> 
+        </li>
+
+        <li>
          <u>Takuya Hiraoka</u>, Takahisa Imagawa, Taisei Hashimoto, Takashi Onishi, Yoshimasa Tsuruoka.<br>
          <a href="https://openreview.net/forum?id=xCVJMsPv3RT"><strong>
           Dropout Q-Functions for Doubly Efficient Reinforcement Learning
@@ -137,7 +166,7 @@
          <strong>
           <a href="./papers/hashimoto21sice.pdf">Controlling the Production Load of a Vinyl Acetate Monomer Plant by Deep Reinforcement Learning
          </strong></a><br>
-	 SICE Annual Conference. September 2021<br> 
+	 SICE Annual Conference. September, 2021<br> 
         </li>
 
         <li>
