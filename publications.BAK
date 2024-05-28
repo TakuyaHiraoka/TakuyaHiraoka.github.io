@@ -46,6 +46,19 @@
       <ul>
 
         <li>
+         <u>Takuya Hiraoka</u>, Guanquan Wang, Takashi Onishi, Yoshimasa Tsuruoka.<br>
+         <a href="https://arxiv.org/abs/2405.14629"><strong>
+          Which Experiences Are Influential for RL Agents? Efficiently Estimating The Influence of Experiences
+         </strong></a><br>
+	 arXiv preprint arXiv:2301.11168, 2023<br>
+         <a href="https://github.com/TakuyaHiraoka/Which-Experiences-Are-Influential-for-RL-Agents">source code</a>, 
+         <a href="https://drive.google.com/file/d/1jtQP0VVuJzPX778DtvgvSDE-mCD0wrbv/view?usp=share_link">demo video 1</a>, 
+         <a href="https://drive.google.com/file/d/1mQ4GnF_HYEbUgImxFHdl1zeTu4rjXEvA/view?usp=share_link">demo video 2</a>, 
+         <a href="https://drive.google.com/file/d/18Xieotx8Okfx1fQrasI82Vz-QcvZJRoM/view?usp=sharre_link">demo video 3</a><br>
+        </li>
+
+
+        <li>
          <u>Takuya Hiraoka</u>.<br>
          <a href="https://arxiv.org/abs/2312.05787"><strong>
           Efficient Sparse-Reward Goal-Conditioned Reinforcement Learning with a High Replay Ratio and Regularization
@@ -55,27 +68,12 @@
          <a href="https://drive.google.com/file/d/1UHd7JVPCwFLNFhy1QcycQfwU_nll_yII/view?usp=drive_link">demo video</a><br>
         </li>
 
-
-
         <li>
          Takahisa Imagawa, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
          <a href="https://arxiv.org/abs/2305.14377"><strong>
           Unsupervised Discovery of Continuous Skills on a Sphere
          </strong></a><br>
 	 arXiv preprint aarXiv:2305.14377, 2023<br>
-        </li>
-
-
-        <li>
-         <u>Takuya Hiraoka</u>, Takashi Onishi, Yoshimasa Tsuruoka.<br>
-         <a href="https://arxiv.org/abs/2301.11168"><strong>
-          Which Experiences Are Influential for Your Agent? Policy Iteration with Turn-over Dropout
-         </strong></a><br>
-	 arXiv preprint arXiv:2301.11168, 2023<br>
-         <a href="https://github.com/takuyahiraoka/which-experiences-are-influential-for-your-agent">source code</a>, 
-         <a href="https://drive.google.com/file/d/1jtQP0VVuJzPX778DtvgvSDE-mCD0wrbv/view?usp=share_link">demo video 1</a>, 
-         <a href="https://drive.google.com/file/d/1mQ4GnF_HYEbUgImxFHdl1zeTu4rjXEvA/view?usp=share_link">demo video 2</a>, 
-         <a href="https://drive.google.com/file/d/18Xieotx8Okfx1fQrasI82Vz-QcvZJRoM/view?usp=sharre_link">demo video 3</a><br>
         </li>
 
         <li>
@@ -131,8 +129,8 @@
         <li>
          Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
          <strong>
-          <a href="./papers/wang23sice.pdf">Application of Reward Shaping in Industrial Manufacturing Reinforcement Learning Environment
-         </strong></a><br>
+          Application of Reward Shaping in Industrial Manufacturing Reinforcement Learning Environment
+         </strong><br>
 	 SICE Annual Conference. September, 2023<br> 
         </li>
 
