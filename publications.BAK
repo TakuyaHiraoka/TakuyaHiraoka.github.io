@@ -50,7 +50,7 @@
          <a href="https://arxiv.org/abs/2405.14629"><strong>
           Which Experiences Are Influential for RL Agents? Efficiently Estimating The Influence of Experiences
          </strong></a><br>
-	 arXiv preprint arXiv:2301.11168, 2023<br>
+	 arXiv:2405.14629, 2024<br>
          <a href="https://github.com/TakuyaHiraoka/Which-Experiences-Are-Influential-for-RL-Agents">source code</a>, 
          <a href="https://drive.google.com/file/d/1jtQP0VVuJzPX778DtvgvSDE-mCD0wrbv/view?usp=share_link">demo video 1</a>, 
          <a href="https://drive.google.com/file/d/1mQ4GnF_HYEbUgImxFHdl1zeTu4rjXEvA/view?usp=share_link">demo video 2</a>, 
@@ -129,9 +129,17 @@
         <li>
          Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
          <strong>
+          Planning with Consistency Models for Model-Based Offline Reinforcement Learning
+         </strong><br>
+	  RLC 2024 Workshop on Deployable RL. August 2024 (To appear)<br> 
+        </li>
+
+        <li>
+         Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
+         <strong>
           Application of Reward Shaping in Industrial Manufacturing Reinforcement Learning Environment
          </strong><br>
-	 SICE Annual Conference. September, 2023<br> 
+	 SICE Annual Conference. September 2023<br> 
         </li>
 
         <li>
@@ -151,7 +159,7 @@
          <a href="http://www.acml-conf.org/2021/conference/accepted-papers/135/"><strong>
           Meta-Model-Based Meta-Policy Optimization
          </strong></a><br>
-	 The 13th Asian Conference on Machine Learning (ACML), November, 2021<br>
+	 The 13th Asian Conference on Machine Learning (ACML). November 2021<br>
 	 <a href="https://drive.google.com/file/d/1ueznSgtqgtln_RwUmLdO0F9dL-niQciU/view?usp=sharing">poster</a>, 
 	 <a href="https://slideslive.com/38970396/metamodelbased-metapolicy-optimization?ref=account-folder-92357-folders">video presentation</a>, 
 	 <a href="https://drive.google.com/file/d/1DRA-pmIWnHGNv5G_gFrml8YzKCtMcGnu/view?usp=sharing">demo video</a>, 
