@@ -52,7 +52,7 @@
          </strong></a><br>
 	 arXiv:2405.14629, 2024<br>
          <a href="https://github.com/TakuyaHiraoka/Which-Experiences-Are-Influential-for-RL-Agents">source code</a>, 
-         <a href="https://drive.google.com/file/d/1t7iYHA8RE-JOmfgEL869-JpZenfLgV5D/view?usp=sharing">demo video 1</a>
+         <a href="https://drive.google.com/file/d/1t7iYHA8RE-JOmfgEL869-JpZenfLgV5D/view?usp=sharing">demo video 1</a>, 
          <a href="https://drive.google.com/file/d/1VnHMmhptasUn0ohVZjRyI9goJYFa1pMR/view?usp=sharing">demo video 2</a><br>
         </li>
 
@@ -87,6 +87,14 @@
 
       <h2>Journal papers</h2>
       <ul>
+
+        <li>
+         Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
+         <a href="https://openreview.net/forum?id=vxnMxWJRSM"><strong>
+          Planning with Consistency Models for Model-Based Offline Reinforcement Learning
+         </strong></a><br>
+	  Transactions on Machine Learning Research (TMLR), 2024 (To appear)<br>
+        </li>
 
         <li>
          Takahisa Imagawa, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
