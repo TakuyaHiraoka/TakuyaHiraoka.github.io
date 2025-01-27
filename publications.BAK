@@ -94,6 +94,7 @@
           Planning with Consistency Models for Model-Based Offline Reinforcement Learning
          </strong></a><br>
 	 Transactions on Machine Learning Research (TMLR), 2024<br>
+         <a href="https://github.com/GuanquanWang/consistency_planning">source code</a><br>
         </li>
 
         <li>
@@ -139,7 +140,8 @@
           Planning with Consistency Models for Model-Based Offline Reinforcement Learning
          </strong></a><br>
 	  RLC 2024 Workshop on Deployable RL, 2024<br>
-	 <a href="https://drive.google.com/file/d/1RUsT4Vsmjnh-XQmkOwpFCcglGf_TnOt-/view?usp=sharing">poster</a> 
+	 <a href="https://drive.google.com/file/d/1RUsT4Vsmjnh-XQmkOwpFCcglGf_TnOt-/view?usp=sharing">poster</a>, 
+         <a href="https://github.com/GuanquanWang/consistency_planning">source code</a><br>
         </li>
 
         <li>
@@ -446,6 +448,14 @@
 	 Natural Language Dialog Systems and Intelligent Assistants, pp. 153--167, Springer, 2015<br>
         </li>
       </ul>
+
+
+      <h2>Patents</h2>
+      <ul>
+        <li> Please see <a href="https://patents.google.com/?inventor=takuya+hiraoka&assignee=Nec+Corporation">here</a> for details on my patents.<br>
+        </li>
+      </ul>
+
 
    </div><!-- /#pageTop-->
    <div id="footer">
