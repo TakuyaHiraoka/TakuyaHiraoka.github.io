@@ -46,18 +46,6 @@
       <ul>
 
         <li>
-         <u>Takuya Hiraoka</u>, Guanquan Wang, Takashi Onishi, Yoshimasa Tsuruoka.<br>
-         <a href="https://arxiv.org/abs/2405.14629"><strong>
-          Which Experiences Are Influential for RL Agents? Efficiently Estimating The Influence of Experiences
-         </strong></a><br>
-	 arXiv:2405.14629, 2024<br>
-         <a href="https://github.com/TakuyaHiraoka/Which-Experiences-Are-Influential-for-RL-Agents">source code</a>, 
-         <a href="https://drive.google.com/file/d/1t7iYHA8RE-JOmfgEL869-JpZenfLgV5D/view?usp=sharing">demo video 1</a>, 
-         <a href="https://drive.google.com/file/d/1VnHMmhptasUn0ohVZjRyI9goJYFa1pMR/view?usp=sharing">demo video 2</a><br>
-        </li>
-
-
-        <li>
          <u>Takuya Hiraoka</u>.<br>
          <a href="https://arxiv.org/abs/2312.05787"><strong>
           Efficient Sparse-Reward Goal-Conditioned Reinforcement Learning with a High Replay Ratio and Regularization
@@ -133,6 +121,19 @@
 
       <h2>International conferences/workshops (refereed)</h2>
       <ul>
+
+        <li>
+         <u>Takuya Hiraoka</u>, Guanquan Wang, Takashi Onishi, Yoshimasa Tsuruoka.<br>
+         <a href="https://preparing"><strong>
+          Which Experiences Are Influential for RL Agents? Efficiently Estimating The Influence of Experiences (to appear)
+         </strong></a><br>
+	  Reinforcement Learning Conference (RLC), 2025<br>
+         <a href="https://arxiv.org/abs/2405.14629">arXiv</a>, 
+         <a href="https://drive.google.com/file/d/1EpZbWdECgLigpdKC6xWGFllVwLnd41to/view?usp=sharing">poster</a>, 
+         <a href="https://github.com/TakuyaHiraoka/Which-Experiences-Are-Influential-for-RL-Agents">source code</a>, 
+         <a href="https://drive.google.com/file/d/1t7iYHA8RE-JOmfgEL869-JpZenfLgV5D/view?usp=sharing">demo video 1</a>, 
+         <a href="https://drive.google.com/file/d/1VnHMmhptasUn0ohVZjRyI9goJYFa1pMR/view?usp=sharing">demo video 2</a><br>
+        </li>
 
         <li>
          Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
@@ -452,7 +453,7 @@
 
       <h2>Patents</h2>
       <ul>
-        <li> Please see <a href="https://patents.google.com/?inventor=takuya+hiraoka&assignee=Nec+Corporation">here</a> for details on my patents.<br>
+        <li> See <a href="https://patents.google.com/?inventor=takuya+hiraoka&assignee=Nec+Corporation">here</a> for details on my patents.<br>
         </li>
       </ul>
 
