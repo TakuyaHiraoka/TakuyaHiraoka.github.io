@@ -45,24 +45,26 @@
       <h2>Reinforcement Learning</h2>
 
       <h3>Efficient method for estimating the influence of experiences on RL agnet's performance (2023 -- , NEC and AIST)</h3>
-
-<iframe src="https://drive.google.com/file/d/1VnHMmhptasUn0ohVZjRyI9goJYFa1pMR/preview" width="640" height="480" allow="autoplay"></iframe>
-
          <iframe src="https://drive.google.com/file/d/1VnHMmhptasUn0ohVZjRyI9goJYFa1pMR/preview" width="640" height="480" allow="autoplay"></iframe>
          <!-- <iframe src="https://drive.google.com/file/d/1jtQP0VVuJzPX778DtvgvSDE-mCD0wrbv/preview" width="640" height="480"></iframe> -->
         <li>
+
+        <li>
          <u>Takuya Hiraoka</u>, Guanquan Wang, Takashi Onishi, Yoshimasa Tsuruoka.<br>
-         <a href="https://arxiv.org/abs/2405.14629"><strong>
+         <a href="https://openreview.net/forum?id=pUvF97zAu9"><strong>
           Which Experiences Are Influential for RL Agents? Efficiently Estimating The Influence of Experiences
          </strong></a><br>
-	 arXiv:2405.14629, 2024<br>
+	  Reinforcement Learning Conference (RLC), 2025 (to appear)<br>
+         <a href="https://drive.google.com/file/d/1fqd5UPUNOQniG-CshmdFFPxEG9m7W4hS/view?usp=sharing">poster</a>, 
+         <a href="https://drive.google.com/file/d/1JjOMvA-oF7bas2OJmO_en6mJAtNGoLjs/view?usp=sharing">slides</a>, 
+         <a href="https://github.com/TakuyaHiraoka/Which-Experiences-Are-Influential-for-RL-Agents">source code</a>, 
          <a href="https://drive.google.com/file/d/1t7iYHA8RE-JOmfgEL869-JpZenfLgV5D/view?usp=sharing">demo video 1</a>, 
-         <a href="https://drive.google.com/file/d/1VnHMmhptasUn0ohVZjRyI9goJYFa1pMR/view?usp=sharing">demo video 2</a><br>
+         <a href="https://drive.google.com/file/d/1VnHMmhptasUn0ohVZjRyI9goJYFa1pMR/view?usp=sharing">demo video 2</a>, 
+         <a href="https://arxiv.org/abs/2405.14629">arXiv</a><br>
         </li><br>
 
-
       <h3>Simple but Efficient Reinforcement Learning Method for Sparse-Reward Goal-Conditioned tasks (2023, NEC and AIST)</h3>
-         <iframe src="https://drive.google.com/file/d/1UHd7JVPCwFLNFhy1QcycQfwU_nll_yII/preview" width="640" height="480"></iframe>
+         <iframe src="https://drive.google.com/file/d/1UHd7JVPCwFLNFhy1QcycQfwU_nll_yII/preview" width="640" height="480" allow="autoplay"></iframe>
         <li>
          <u>Takuya Hiraoka</u>.<br>
          <a href="https://arxiv.org/abs/2312.05787"><strong>
@@ -88,7 +90,7 @@
         </li><br>
 
       <h3>Model Based Meta Reinforcement Learning (2020, NEC, AIST and RIKEN)</h3>
-         <iframe src="https://drive.google.com/file/d/1DRA-pmIWnHGNv5G_gFrml8YzKCtMcGnu/preview" width="640" height="480"></iframe>
+         <iframe src="https://drive.google.com/file/d/1DRA-pmIWnHGNv5G_gFrml8YzKCtMcGnu/preview" width="640" height="480" allow="autoplay"></iframe>
         <li>
          <u>Takuya Hiraoka</u>, Takahisa Imagawa, Voot Tangkaratt, Takayuki Osa, Takashi Onishi, Yoshimasa Tsuruoka.<br>
          <a href="http://www.acml-conf.org/2021/conference/accepted-papers/135/"><strong>
@@ -103,7 +105,7 @@
         </li><br>
 
       <h3>Robust Hierarchical Reinforcement Learning (2019, NEC and AIST)</h3>
-         <iframe src="https://drive.google.com/file/d/1xXgSeEa_nNG397ZkIayk3CwYPy_BPy8X/preview" width="640" height="480"></iframe>
+         <iframe src="https://drive.google.com/file/d/1xXgSeEa_nNG397ZkIayk3CwYPy_BPy8X/preview" width="640" height="480" allow="autoplay"></iframe>
         <li>
          <u>Takuya Hiraoka</u>, Takahisa Imagawa, Tatsuya Mori, Takashi Onishi, Yoshimasa Tsuruoka.<br>
          <a href="https://papers.nips.cc/paper/8530-learning-robust-options-by-conditional-value-at-risk-optimization"><strong>Learning Robust Options by Conditional Value at Risk Optimization</strong></a><br>
@@ -112,7 +114,7 @@
 
       <h2>Dialogue Systems</h2>
       <h3>Inquiry Dialogue System (2018, NEC)</h3>
-         <iframe src="https://drive.google.com/file/d/1BeVDX3uDd_FQ1vqp0dB2F4oVhSphlGGc/preview" width="640" height="480"></iframe>
+         <iframe src="https://drive.google.com/file/d/1BeVDX3uDd_FQ1vqp0dB2F4oVhSphlGGc/preview" width="640" height="480" allow="autoplay"></iframe>
          <li>
          <u>Takuya Hiraoka</u>, Shota Motoura, Kunihiko Sadamasa, 
          <a href="./papers/hiraoka18iwsds.pdf"><strong>Detecticon: A Prototype Inquiry Dialog System</strong></a>, 
@@ -120,7 +122,7 @@
         </li><br>
 
       <h3>Persuasive Dialogue System (~2016, NAIST)</h3>
-        <iframe src="https://drive.google.com/file/d/1z1jvORPEQpfwMEGdcBDDe7OZZgN4pbKS/preview" width="640" height="480"></iframe> 
+        <iframe src="https://drive.google.com/file/d/1z1jvORPEQpfwMEGdcBDDe7OZZgN4pbKS/preview" width="640" height="480" allow="autoplay"></iframe> 
         <li>
          <u>Takuya Hiraoka</u>, Graham Neubig, Sakriani Sakti, Tomoki Toda, Satoshi Nakamura, 
          <a href="./papers/hiraoka14coling.pdf"><strong>Reinforcement Learning of Cooperative Persuasive Dialogue Policies using Framing</strong></a>, 
