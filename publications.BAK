@@ -90,7 +90,7 @@
          <a href="https://openreview.net/forum?id=pUvF97zAu9"><strong>
           Which Experiences Are Influential for RL Agents? Efficiently Estimating The Influence of Experiences
          </strong></a><br>
-	  Reinforcement Learning Conference (RLC) / Reinforcement Learning Journal (RLJ), 2025<br>
+	  Reinforcement Learning Conference (RLC) / Journal (RLJ), 2025<br>
          <a href="https://drive.google.com/file/d/1fqd5UPUNOQniG-CshmdFFPxEG9m7W4hS/view?usp=sharing">poster</a>, 
          <a href="https://drive.google.com/file/d/1JjOMvA-oF7bas2OJmO_en6mJAtNGoLjs/view?usp=sharing">slides</a>, 
          <a href="https://github.com/TakuyaHiraoka/Which-Experiences-Are-Influential-for-RL-Agents">source code</a>, 
@@ -145,6 +145,15 @@
 
       <h2>International conferences/workshops (refereed)</h2>
       <ul>
+
+        <li>
+         Shunta Kimura, <u>Takuya Hiraoka</u>, Ryota Higa, Yoshimasa Tsuruoka, Katsuhide Fujita.<br>
+         <a href="https://preparing_now"><strong>
+          Utility-Aware Task Decomposition and Exchange across LLM Agents
+         </strong></a><br>
+	  AAAI 2026 Workshop on Bridging Large Language Models and Multi-Agent Systems, 2026 (to appear)<br>
+        </li>
+
         <li>
          Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
          <a href="https://openreview.net/forum?id=vxnMxWJRSM"><strong>
