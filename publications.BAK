@@ -46,15 +46,6 @@
       <ul>
 
         <li>
-         Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
-         <a href="https://arxiv.org/abs/2507.09534"><strong>
-          Consistency Trajectory Planning: High-Quality and Efficient Trajectory Optimization for Offline Model-Based Reinforcement Learning
-         </strong></a><br>
-	 arXiv:2507.09534, 2025<br>
-        </li>
-
-
-        <li>
          <u>Takuya Hiraoka</u>.<br>
          <a href="https://arxiv.org/abs/2312.05787"><strong>
           Efficient Sparse-Reward Goal-Conditioned Reinforcement Learning with a High Replay Ratio and Regularization
@@ -84,6 +75,16 @@
 
       <h2>Journal papers</h2>
       <ul>
+
+        <li>
+         Guanquan Wang, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
+         <a href="https://openreview.net/forum?id=RVGkT9ISVf"><strong>
+          Consistency Trajectory Planning: High-Quality and Efficient Trajectory Optimization for Offline Model-Based Reinforcement Learning
+         </strong></a><br>
+	 Transactions on Machine Learning Research (TMLR), 2026 (to appear)<br>
+         <a href="https://arxiv.org/abs/2507.09534">arXiv version</a><br>
+        </li>
+
 
         <li>
          <u>Takuya Hiraoka</u>, Guanquan Wang, Takashi Onishi, Yoshimasa Tsuruoka.<br>
@@ -147,11 +148,11 @@
       <ul>
 
         <li>
-         Shunta Kimura, <u>Takuya Hiraoka</u>, Ryota Higa, Yoshimasa Tsuruoka, Katsuhide Fujita.<br>
+          Shunta Kimura, <u>Takuya Hiraoka</u>, Ryota Higa, Yoshimasa Tsuruoka, Katsuhide Fujita.<br>
          <a href="https://preparing_now"><strong>
           Utility-Aware Task Decomposition and Exchange across LLM Agents
          </strong></a><br>
-	  AAAI 2026 Workshop on Bridging Large Language Models and Multi-Agent Systems, 2026 (to appear)<br>
+	  AAAI 2026 Bridge Program on Advancing LLM-Based Multi-Agent Collaboration, 2026 (to appear)<br>
         </li>
 
         <li>
