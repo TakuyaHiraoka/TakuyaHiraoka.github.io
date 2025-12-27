@@ -1,13 +1,15 @@
-name: HTML validation
+name: HTML format & validation
 
 on:
   push:
-    branches: [master]
+    branches:
+      - master
     paths:
       - "**/*.html"
       - ".github/workflows/**"
   pull_request:
-    branches: [master]
+    branches:
+      - master
     paths:
       - "**/*.html"
       - ".github/workflows/**"
@@ -19,16 +21,13 @@ permissions:
 jobs:
   html-check:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # HTML grammar checkÅFHTML5 Validator (v.Nu / html5validator)
       - name: HTML5 Validator
         uses: Cyb3r-Jak3/html5validator-action@v7.2.0
         with:
           root: .
-          # css: true
           log_level: WARNING
           format: text
