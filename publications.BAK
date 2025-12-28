@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<!doctype html>
+<html lang="en">
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-F1TZMY54WS"></script>
@@ -10,14 +10,11 @@
 
   gtag('config', 'G-F1TZMY54WS');
 </script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="Content-Style-Type" content="text/css" />
-<meta http-equiv="Content-Script-Type" content="text/javascript" />
-<meta http-equiv="imagetoolbar" content="no" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 <link rel="stylesheet" href="css/common.css" type="text/css" />
-<script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/common.js"></script>
 <title>Publications</title>
 </head>
@@ -60,7 +57,7 @@
          <a href="https://arxiv.org/abs/2305.14377"><strong>
           Unsupervised Discovery of Continuous Skills on a Sphere
          </strong></a><br>
-	 arXiv preprint aarXiv:2305.14377, 2023<br>
+	 arXiv preprint arXiv:2305.14377, 2023<br>
         </li>
 
         <li>
@@ -200,16 +197,16 @@
 
         <li>
          Taisei Hashimoto, Takashi Onishi, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
-         <strong>
-          <a href="./papers/hashimoto21sice.pdf">Controlling the Production Load of a Vinyl Acetate Monomer Plant by Deep Reinforcement Learning
+         <a href="./papers/hashimoto21sice.pdf"><strong>
+          Controlling the Production Load of a Vinyl Acetate Monomer Plant by Deep Reinforcement Learning
          </strong></a><br>
 	 SICE Annual Conference, 2021<br> 
         </li>
 
         <li>
          Takahisa Imagawa, <u>Takuya Hiraoka</u>, Yoshimasa Tsuruoka.<br>
-         <strong>
-          <a href="./papers/imagawa20lifelongml.pdf">Off-Policy Meta-Reinforcement Learning Based on Feature Embedding Spaces
+         <a href="./papers/imagawa20lifelongml.pdf"><strong>
+          Off-Policy Meta-Reinforcement Learning Based on Feature Embedding Spaces
          </strong></a><br>
 	 ICML 2019 Workshop on Lifelong Learning Workshop (LifelongML), 2020<br> 
 	 <a href="https://www.youtube.com/watch?v=BA3Ygsnt7v0&feature=youtu.be">video presentation</a><br>
@@ -223,13 +220,14 @@
 	 <a href="https://arxiv.org/abs/1905.09191">arXiv version</a>, 
 	 <a href="https://github.com/TakuyaHiraoka/Learning-Robust-Options-by-Conditional-Value-at-Risk-Optimization">source code</a>, 
 	 <a href="https://drive.google.com/open?id=1DRmIaK5VomCey70rKD_5DgX2Jm_1rFlo">demo video</a><br>
+        </li>
 
         <li>
          Kosuke Akimoto, <u>Takuya Hiraoka</u>, Kunihiko Sadamasa, Mathias Niepert.<br>
          <a href="./papers/akimoto19emnlp.pdf"><strong>Cross-Sentence N-ary Relation Extraction using Lower-Arity Universal Schemas</strong></a><br>
 	 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019<br>
          <a href="https://github.com/aurtg/nary-relation-extraction-decomposed">source code</a>, 
-         <a href="https://github.com/aurtg/n-ary-dataset">dateaset</a><br>
+         <a href="https://github.com/aurtg/n-ary-dataset">dataset</a><br>
         </li>
 
         <li>
@@ -392,7 +390,7 @@
         <li>
          Yoko Ishikawa, <u>Takuya Hiraoka</u>, Masahiro Mizukami, Koichiro Yoshino, Graham Neubig, Satoshi Nakamura.<br>
          <strong>対話状態推定のための外部知識ベースを利用した意味的素性の提案 (In Japanese)</strong><br>
-	 SIG-SLP, 2015.  <font color=red>Student poster award</font>
+	 SIG-SLP, 2015.  <span style="color:red">Student poster award</span>
         </li>
         <li>
          Yuiko Tsunomori, Graham Neubig, Sakriani Sakti, <u>Takuya Hiraoka</u>, Masahiro Mizukami, Tomoki Toda, Satoshi Nakamura.<br>
