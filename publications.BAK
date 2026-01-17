@@ -78,7 +78,7 @@
          <a href="https://openreview.net/forum?id=RVGkT9ISVf"><strong>
           Consistency Trajectory Planning: High-Quality and Efficient Trajectory Optimization for Offline Model-Based Reinforcement Learning
          </strong></a><br>
-	 Transactions on Machine Learning Research (TMLR), 2026 (to appear)<br>
+	 Transactions on Machine Learning Research (TMLR), 2026<br>
          <a href="https://arxiv.org/abs/2507.09534">arXiv version</a><br>
         </li>
 
@@ -390,7 +390,7 @@
         <li>
          Yoko Ishikawa, <u>Takuya Hiraoka</u>, Masahiro Mizukami, Koichiro Yoshino, Graham Neubig, Satoshi Nakamura.<br>
          <strong>対話状態推定のための外部知識ベースを利用した意味的素性の提案 (In Japanese)</strong><br>
-	 SIG-SLP, 2015.  <span style="color:red">Student poster award</span>
+	 SIG-SLP, 2015. <span style="color:red">Student poster award</span>
         </li>
         <li>
          Yuiko Tsunomori, Graham Neubig, Sakriani Sakti, <u>Takuya Hiraoka</u>, Masahiro Mizukami, Tomoki Toda, Satoshi Nakamura.<br>
