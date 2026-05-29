@@ -22,7 +22,7 @@
 <div id="top">
    <div id="header">
       <h1>Takuya Hiraoka</h1><img src="images/Me.png" width="230" height="110" alt="Takuya Hiraoka profile photo">
-      <p>I am currently a researcher at <a href="https://www.nec.com/en/global/rd/people/takuya_hiraoka.html">NEC</a>. </p>
+      <p>I am currently unemployed. </p>
       <p>Email: hiraoka.et.al[at]gmail.com, 
       <a href="https://scholar.google.co.jp/citations?user=L3vFMj0AAAAJ&hl=en">Google Scholar</a>, 
       <a href="https://openreview.net/profile?id=~Takuya_Hiraoka1">OpenReview</a>, 
@@ -91,7 +91,7 @@
          <li>INTERSPEECH, 2018–present </li>
          <li>SigDial, 2019–present  </li>
          <li>ICASSP, 2020–present  </li>
-         <li>ICML, 2021 ~ </li>
+         <li>ICML, 2021–present </li>
          <li>NeurIPS, 2021–present  </li>
          <li>CoRL, 2021  </li>
          <li>ICLR, 2022–present  (<span style="color:red">selected as a <a href="https://iclr.cc/Conferences/2022/Reviewers">highlighted reviewer</a></span>, 2022) </li>
