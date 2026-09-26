@@ -44,22 +44,37 @@
 
       <h2>Robot Learning</h2>
 
-      <h3>Accelerating Robot Policies (2026-present, SB Intuitions)</h3>
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/jUfJPqX9e68?si=RLQ5Jels52LKpWxj" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <h3>Accelerating and Smoothing Robot Policies (2026-present, SB Intuitions)</h3>
 
+       <h4>Box Assembling</h4>
+         <iframe title="video" src="https://drive.google.com/file/d/1CpHKBP2SgOGNUMwSB3IhnZaWJCcbLYl3/preview" width="1278" height="720"></iframe>
+        <ul>
+         <li>
+          <a href="https://x.com/sbintuitions/status/2093218801043312764">official X post</a>, 
+          <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7498988570804645888/">official LinkedIn post</a><br>
+         </li>
+        </ul><br>
+
+
+       <h4>T-shirt Folding</h4>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/jUfJPqX9e68?si=RLQ5Jels52LKpWxj" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
          <!-- <iframe title="video" src="https://drive.google.com/file/d/1yWEafMlMl_zpdfCjIOqRl8mK7Vm2HX2g/preview" width="1278" height="720"></iframe>  -->
         <ul>
-        <li>
-         <a href="https://drive.google.com/file/d/17jayAHo9vzBmIq2vGG2eqtKBlL0n0nLM/view?usp=sharing">additional video 1</a>, 
-         <a href="https://drive.google.com/file/d/1yWEafMlMl_zpdfCjIOqRl8mK7Vm2HX2g/view?usp=sharing">additional video 2</a>, 
-         <a href="https://x.com/sbintuitions/status/2093218801043312764">official X post</a>, 
-         <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7498988570804645888/">official LinkedIn post</a>, 
-         <a href="https://x.com/orematasaburou/status/2095403220378263763">RSJ live demo video 1</a>, 
-         <a href="https://x.com/orematasaburou/status/2095687262713585775">RSJ live demo video 2</a>, 
-         <a href="https://www.youtube.com/watch?v=rN99cuU29VQ">Media demo (ITmedia) 1</a>, 
-         <a href="https://tver.jp/episodes/epkt4x55qd">Media demo (WBS) 2</a>, <br>
-        </li></ul><br>
-
+         <li>
+          <a href="https://drive.google.com/file/d/17jayAHo9vzBmIq2vGG2eqtKBlL0n0nLM/view?usp=sharing">additional video 1</a>, 
+          <a href="https://drive.google.com/file/d/1yWEafMlMl_zpdfCjIOqRl8mK7Vm2HX2g/view?usp=sharing">additional video 2</a>, 
+          <a href="https://x.com/sbintuitions/status/2093218801043312764">official X post</a>, 
+          <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7498988570804645888/">official LinkedIn post</a>, 
+          <a href="https://x.com/orematasaburou/status/2095403220378263763">RSJ live demo video 1</a>, 
+          <a href="https://x.com/orematasaburou/status/2095687262713585775">RSJ live demo video 2</a>, 
+          <a href="https://www.youtube.com/watch?v=rN99cuU29VQ">Media demo (ITmedia) 1</a>, 
+          <a href="https://tver.jp/episodes/epkt4x55qd">Media demo (WBS) 2</a><br>
+         </li>
+        </ul><br>
+       <h4>Box Packing</h4>
+        <ul>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/_pkhUv3LXxY?si=4iJeZcT_C73SgoVd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul><br>
 
       <h2>Reinforcement Learning</h2>
 
